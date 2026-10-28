@@ -1,14 +1,9 @@
-# TechNest Store 🛒⚡
-
-An e-commerce web application built with **React.js** and **Redux** for state management.
 
 ## Student Information
 
-- **Student Name:** [Your Name]
-- **Module:** WAMD — TD-TP 2
-- **University:** ENSTA — SS/IA, First Semester 2026
-
----
+- Student Name: [Hamadi ImedEddine]
+- Module: WAMD — TD-TP 2
+- University: ENSTA — IAA
 
 ## Application Overview
 
@@ -106,15 +101,5 @@ The Redux store manages the global **cart** state:
 - ✅ Discount display
 
 ---
-
-## Running the Application
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
 
 Open your browser at: **http://localhost:5173**
